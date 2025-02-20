@@ -1,1 +1,1 @@
-web: python fb-bot.py
+worker: python fb-bot.py
